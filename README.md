@@ -1,4 +1,4 @@
-# Embedded Linux Diploma Repository
+# Embedded Linux Diploma Repository 🌟
 
 Welcome to my Embedded Linux Diploma repository! Here you will find all the tasks, assignments, and projects completed during my diploma program. This repository serves as a showcase of my skills and learning journey in embedded systems and Linux development.
 
